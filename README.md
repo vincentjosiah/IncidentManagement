@@ -1,5 +1,6 @@
 # IncidentManagement with PowerBI
 
+
 ## Project Goal
 The goal of this project is to store a bunch of data about incidents in a relational database and create a dashboard in PowerBI that represents the interesting facts about the incidents.
 
@@ -13,5 +14,5 @@ I will execute this by extracting my data from my source.  Storing in an online 
 ## Tasks
 This [Spreadsheet](https://docs.google.com/spreadsheets/d/13iwGwKh27urMDk_71Z49W3Eyd0_IH_FzwqTP20i-xxQ/edit?usp=sharing) outlines all the tasks in the project.
 
-# Team Roles 
+## Team Roles 
 This is a solo project, so I will be accomplishing all of the tasks listed in the spreadsheet.
