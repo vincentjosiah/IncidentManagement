@@ -16,3 +16,6 @@ This [Spreadsheet](https://docs.google.com/spreadsheets/d/13iwGwKh27urMDk_71Z49W
 
 ## Team Roles 
 This is a solo project, so I will be accomplishing all of the tasks listed in the spreadsheet.
+
+## Permission
+Please do not use data sets for future classes.  Some is sensetive
